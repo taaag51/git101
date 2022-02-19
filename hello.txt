@@ -1,3 +1,4 @@
 Hello!
 I'm a student.
 I have a pen.
+You have a pen, too.
