@@ -2,3 +2,4 @@ commitA
 commitB
 commitC
 commitD
+commitE
