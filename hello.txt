@@ -1,3 +1,5 @@
 Hello!
-This is a pen.
+I'm a student.
+I have a pen.
+You have a pen, too.
 Bye!
