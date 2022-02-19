@@ -1,4 +1,7 @@
 Hello!
 I'm a student.
+<<<<<<< HEAD
 I have a pen.
 You have a pen, too.
+=======
+Bye!
